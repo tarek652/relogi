@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://tarek652.github.io/relogi/sitemap.xml
+Disallow:
